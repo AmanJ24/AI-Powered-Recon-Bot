@@ -1,0 +1,23 @@
+# Python dependencies for the security scanner tool
+
+# Core HTTP library
+requests>=2.28.0,<3.0.0
+
+# Visualization library
+matplotlib>=3.5.0,<4.0.0
+
+# Network scanning library
+python-nmap>=0.7.1,<0.8.0
+
+# AI analysis
+openai>=1.0.0,<2.0.0
+
+# Subdomain enumeration tool (optional)
+sublist3r>=1.0
+
+python-nmap
+sublist3r
+openai
+requests
+matplotlib
+

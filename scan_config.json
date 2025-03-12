@@ -1,0 +1,8 @@
+{
+    "do_subdomain": true,
+    "do_port": true,
+    "do_vuln": true,
+    "do_api": true,
+    "do_ai": true,
+    "do_viz": true
+}
