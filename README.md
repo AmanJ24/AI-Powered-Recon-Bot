@@ -27,8 +27,8 @@ A comprehensive, automated security scanning tool designed to perform vulnerabil
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/security-scanner.git
-cd security-scanner
+git clone https://github.com/AmanJ24/AI-Powered-Recon-Bot.git
+cd AI-Powered-Recon-Bot
 ```
 
 ### Step 2: Install dependencies
